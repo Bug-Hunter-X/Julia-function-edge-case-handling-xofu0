@@ -1,0 +1,2 @@
+# Julia Function Edge Case Handling
+This repository demonstrates a bug in a Julia function that doesn't handle edge cases correctly. The function `myfunction` is designed to square its input, but it doesn't correctly handle negative inputs. This is a common error when working with conditional statements in Julia.
